@@ -1,8 +1,9 @@
-### Animeverse
+# Animeverse
 
 ## Website Where you can watch Anime!
 
-# Updates
+### Updates
 
-[x] - Initial Commit
-[x] - Added Feature 1
+### [x] - Initial Commit
+
+### [x] - Added Feature 1
